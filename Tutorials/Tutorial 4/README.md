@@ -2,6 +2,8 @@
 
 Code:
 
+https://github.com/Adem-ma/M3-Unity-Tutorials/blob/main/Assets/moneysCollect.cs
+
 ![ermmm](gfx/Collect%20Code.png)
 
 Showcase:
